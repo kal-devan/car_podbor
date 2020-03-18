@@ -12,11 +12,10 @@ body {
   background-color: white;
   border-radius: 2vw;
   border: 2px solid green;
-  font-size:1.5vw;
+  font-size: 2.5vw;
 }
 #Form2{
   display: block;
-  font-size:1.5vw;
   position: absolute;
   width:60%;
   right: 20%;
@@ -26,6 +25,7 @@ body {
   border: 2px solid green;
   color: black;
   text-align: center;
+  font-size: 2.5vw;
 }
 
 h1 {
