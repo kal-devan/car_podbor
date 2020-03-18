@@ -3,6 +3,29 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+#Form1{
+  display: block;
+  position: absolute;
+  width:30%;
+  right: 10%;
+  top: 33%;
+  background-color: white;
+  border-radius: 2vw;
+  border: 2px solid green;
+}
+#Form2{
+  display: block;
+  position: absolute;
+  width:60%;
+  right: 20%;
+  top: 60%;
+  background-color: white;
+  border-radius: 2vw;
+  border: 2px solid green;
+  color: black;
+  text-align: center;
+}
+
 h1 {
   font-family: 'Oswald', sans-serif;
   font-size: 3vw;
